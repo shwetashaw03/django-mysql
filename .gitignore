@@ -1,0 +1,8 @@
+.env
+*.sqlite3
+django-venv
+**/__pycache__
+**/migrations/__pycache__
+**/migrations/0*.py
+media
+static
